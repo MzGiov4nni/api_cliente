@@ -1,5 +1,3 @@
-from django.shortcuts import render
-
 # Create your views here.
 from .serializer import Registro_clienteSerializer
 from .models import Registro_cliente
